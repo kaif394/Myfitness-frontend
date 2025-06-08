@@ -1,5 +1,8 @@
 {
 	"name": "laragym-admin",
+	"engines": {
+		"node": "20.x"
+	},
 	"version": "0.0.1",
 	"private": true,
 	"scripts": {
